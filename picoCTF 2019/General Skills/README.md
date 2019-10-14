@@ -8,11 +8,12 @@
 | [First Grep](First%20Grep) | 100 |
 | [Resources](Resources) | 100 |
 | [strings it](strings%20it) | 100 |
-| what's a net cat? | 100 |
-| Based | 200 |
-| plumbing | 200 |
-| whats-the-difference | 200 |
-| where-is-the-file | 200 |
-| flag\_shop | 300 |
+| [what's a net cat?](what%27s%20a%20net%20cat%3F) | 100 |
+| [Based](Based) | 200 |
+| [First Grep: Part II](First%20Grep:%20Part%20IIPart%20IPart%20II) | 200 |
+| [plumbing](plumbing) | 200 |
+| [whats-the-difference](whats-the-difference) | 200 |
+| [where-is-the-file](where-is-the-file) | 200 |
+| [flag\_shop](flag_shop) | 300 |
 | mus1c | 300 |
 | 1\_wanna\_b3\_a\_r0ck5tar | 350 |

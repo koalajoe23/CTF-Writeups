@@ -8,8 +8,6 @@ Can you find the flag in [file](https://2019shell1.picoctf.com/static/5f3d01c175
 
 grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
-[1] https://ryanstutorials.net/linuxtutorial/grep.php
-
 ## Solution
 
 grep the file for "picoCTF" string
