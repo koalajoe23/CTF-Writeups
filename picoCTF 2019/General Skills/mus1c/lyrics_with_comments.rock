@@ -1,55 +1,94 @@
+(pico = 19)
 Pico's a CTFFFFFFF
+(my_mind = 6)
 my mind is waitin
+(my_mind = 6)
 It's waitin
 
+(this = pico * my_mind)
 Put my mind of Pico into This
+(my_flag = 35)
 my flag is not found
+(my_flag = this)
 put This into my flag
+(pico = my_flag)
 put my flag into Pico
 
+(print pico)
+shout Pico
+(print pico)
+shout Pico
+(print pico)
+shout Pico
 
-shout Pico
-shout Pico
-shout Pico
-
+(my_song = 9)
 My song's something
+(this = pico)
 put Pico into This
 
+(this -= 3)
 Knock This down, down, down
+(ctf = this)
 put This into CTF
 
+(print ctf)
 shout CTF
+(my_lyrics = 7)
 my lyric is nothing
+(my_lyric = this - my_song)
 Put This without my song into my lyric
+(my_lyric -= 3)
 Knock my lyric down, down, down
 
+(print my_lyric)
 shout my lyric
 
+(this = my_lyric)
 Put my lyric into This
+(my_lyric = my_song + this)
 Put my song with This into my lyric
+(my_lyric -= 1)
 Knock my lyric down
 
+(print my_lyric)
 shout my lyric
 
+(my_lyric += 3)
 Build my lyric up, up ,up
 
+(print my_lyric)
 shout my lyric
+(print pico)
 shout Pico
+(print pico)
 shout It
 
+(pico_ctf = 3)
 Pico CTF is fun
+(security = 9)
 security is important
+(fun = 3)
 Fun is fun
+(pico_ctf = security + fun)
 Put security with fun into Pico CTF
+(fun += 1)
 Build Fun up
+(print fun * pico_ctf)
 shout fun times Pico CTF
+(my_song = fun * pico_ctf)
 put fun times Pico CTF into my song
 
+(my_song += 1)
 build it up
 
+(print my_song)
 shout it
+(print my_song)
 shout it
 
+(my_song += 2)
 build it up, up
+(print my_song)
 shout it
+(print pico)
 shout Pico

@@ -15,5 +15,5 @@
 | [whats-the-difference](whats-the-difference) | 200 |
 | [where-is-the-file](where-is-the-file) | 200 |
 | [flag\_shop](flag_shop) | 300 |
-| mus1c | 300 |
+| [mus1c](mus1c) | 300 |
 | 1\_wanna\_b3\_a\_r0ck5tar | 350 |
